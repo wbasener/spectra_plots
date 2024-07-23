@@ -1,2 +1,2 @@
 # spectra_plots
-library for nice plots for spectral libraries using plotly
+library for nice interactive plots for spectral libraries using plotly
